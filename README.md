@@ -1,10 +1,28 @@
 # Project-2
-Title -  DOCTOR APPOINTMENT .
+# DOCTOR APPOINTMENT .
 
-Description - Doctor Appointment Application ,it is a simple and friendly application . In this a doctor and a patient can register themselves , there is no limits for doctor and patient registration. Doctor and Patient can update , display and delete their profiles. Doctor is able to set the date and time for availability . Patient can register for appointment to any doctor at availability of time slot . One patient can fixed appointment for more than one doctor with availability of time . Patient can able to update , display the status of appointment and delete the appointment request.
+# Description 
+Doctor Application , a doctor and a patient can register himself . Doctor can specify the date and time for appointment. Patient is able set appointment with the given time by doctor. More than one doctor a patient can register for appointment.This application is useful for patients for booking appointment online.
 
-Technologies And Tools -
- Javalin, Spring Data, Spring Boot, Spring Framework, Angular 4, MySQL, Hibernate.
+# Technologies Used :
+ * Javalin 
+ * Spring Data
+ * Spring Boot
+ * Spring Framework
+ * Angular 4
+ * MySQL
+ * Hibernate
+# Features :
+1. Patient : 
+ * Patient can sign in
+ * Patient can update their profile
+ * Patient can display their profile
+ * Patient can register for appointment 
+ * Patient can apply multiple appointment with respective 
  
- Spring Tool Suite -4 IDE.
- Visual Studio Code IDE .
+2. Doctor :
+* Doctor can sign in
+* Doctor can update their profile
+* Doctor can display their profile
+* Doctor can approve and deny the appointment requests
+* Doctor can make available time slot for patient.
