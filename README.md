@@ -32,7 +32,8 @@ Doctor Application , a doctor and a patient can register himself . Doctor can sp
 * Himanshu Kirme
 * Saisree potnuru
 * Rashmitha Bodla
-
+ # Getting started :
+ git clone https://github.com/Tushar-r-das/Project-2
  # Usage :
 * Clone the project using git clone command
 * Open the frontend folder and run ng build command
