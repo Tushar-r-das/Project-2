@@ -29,7 +29,7 @@ Doctor Application , a doctor and a patient can register himself . Doctor can sp
 
 # Contributors :
 * Tushar Ranjan Das 
-* Himanshu Kimre
+* Himanshu Kirme
 * Saisree potnuru
 * Rashmitha Bodla
 
