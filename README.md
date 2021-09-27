@@ -26,3 +26,10 @@ Doctor Application , a doctor and a patient can register himself . Doctor can sp
 * Doctor can display their profile
 * Doctor can approve and deny the appointment requests
 * Doctor can make available time slot for patient.
+ # usage :
+* Clone the project using git clone command
+* Open the frontend folder and run ng build command
+* Run ng serve for a dev server. Navigate to http://localhost:4200/
+* Open the backend folder, and import it in your ide and run the application
+* Change the urls in the service layer of the frontend of both application
+* Change the urls in customer module backend in service layer for rest calls
